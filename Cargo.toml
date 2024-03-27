@@ -9,3 +9,4 @@ edition = "2021"
 chrono = "0.4.35"
 image = "0.25.0"
 reqwest = { version = "0.12.2", features = ["blocking"] }
+wallpaper = { version = "3.2.0", features = ["from_url"] }
